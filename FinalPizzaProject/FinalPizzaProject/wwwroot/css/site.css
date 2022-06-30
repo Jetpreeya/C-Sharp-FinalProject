@@ -1,0 +1,39 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.mainSubTitle{
+    font-family:Leelawadee;
+    color:darkblue;
+}
+
+.display-4{
+    font-family:'Times New Roman', Times, serif;
+    color: midnightblue;
+}
+
+.makeYourOwnDiv{
+    background-color:cornsilk;
+    margin:0;
+}
+
+.makeYourOwnText{
+    margin: 100px 0 20px 0;
+    color:darkslategray;
+}
+
