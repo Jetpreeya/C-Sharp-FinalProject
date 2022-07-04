@@ -27,7 +27,7 @@
              @foreach(var pizza in Model.fakePizzaDB)
             {
                 var imagePath = "~/images/pizza/" + (pizza.ImageTitle + ".jpg");
-                <div class="col-4 mb-5">
+                <div class="card col-4 mb-5">
                 <img src="@imagePath" class="w-100" asp-append-version="true" width="300px" height="250px"/>
                 <H4> @pizza.PizzaName </H4>
                 <p> @pizza.FinalPrice SEK </p>
