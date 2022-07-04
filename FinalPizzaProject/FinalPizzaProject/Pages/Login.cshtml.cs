@@ -13,11 +13,17 @@ namespace FinalPizzaProject.Pages
         public void OnGet()
         {
         }
+
+        public void OnPost()
+        {
+
+        }
     }
 
     public class Credential
     {
         [Required]
+        [Display(Name ="User Name")]
         public String UserName { get; set; }
 
         [Required]
