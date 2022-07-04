@@ -524,3 +524,12 @@ C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\Fina
 C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\obj\Debug\net6.0\FinalPizzaProject.pdb
 C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\obj\Debug\net6.0\FinalPizzaProject.genruntimeconfig.cache
 C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\obj\Debug\net6.0\ref\FinalPizzaProject.dll
+C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\obj\Debug\net6.0\FinalPizzaProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
