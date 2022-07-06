@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elev\\source\\repos\\Jetpreeya\\C-Sharp-FinalProject\\FinalPizzaProject\\FinalPizzaProject\\FinalPizzaProject.csproj": {}
+    "C:\\Users\\Elev\\Source\\Repos\\Jetpreeya\\C-Sharp-FinalProject\\FinalPizzaProject\\FinalPizzaProject\\FinalPizzaProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elev\\source\\repos\\Jetpreeya\\C-Sharp-FinalProject\\FinalPizzaProject\\FinalPizzaProject\\FinalPizzaProject.csproj": {
+    "C:\\Users\\Elev\\Source\\Repos\\Jetpreeya\\C-Sharp-FinalProject\\FinalPizzaProject\\FinalPizzaProject\\FinalPizzaProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elev\\source\\repos\\Jetpreeya\\C-Sharp-FinalProject\\FinalPizzaProject\\FinalPizzaProject\\FinalPizzaProject.csproj",
+        "projectUniqueName": "C:\\Users\\Elev\\Source\\Repos\\Jetpreeya\\C-Sharp-FinalProject\\FinalPizzaProject\\FinalPizzaProject\\FinalPizzaProject.csproj",
         "projectName": "FinalPizzaProject",
-        "projectPath": "C:\\Users\\Elev\\source\\repos\\Jetpreeya\\C-Sharp-FinalProject\\FinalPizzaProject\\FinalPizzaProject\\FinalPizzaProject.csproj",
+        "projectPath": "C:\\Users\\Elev\\Source\\Repos\\Jetpreeya\\C-Sharp-FinalProject\\FinalPizzaProject\\FinalPizzaProject\\FinalPizzaProject.csproj",
         "packagesPath": "C:\\Users\\Elev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elev\\source\\repos\\Jetpreeya\\C-Sharp-FinalProject\\FinalPizzaProject\\FinalPizzaProject\\obj\\",
+        "outputPath": "C:\\Users\\Elev\\Source\\Repos\\Jetpreeya\\C-Sharp-FinalProject\\FinalPizzaProject\\FinalPizzaProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elev\\AppData\\Roaming\\NuGet\\NuGet.Config",
