@@ -8,12 +8,16 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FinalPizzaProject
 build_property.RootNamespace = FinalPizzaProject
-build_property.ProjectDir = C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\
+build_property.ProjectDir = C:\Users\Elev\Source\Repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Elev\source\repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject
+build_property.MSBuildProjectDirectory = C:\Users\Elev\Source\Repos\Jetpreeya\C-Sharp-FinalProject\FinalPizzaProject\FinalPizzaProject
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Elev/Source/Repos/Jetpreeya/C-Sharp-FinalProject/FinalPizzaProject/FinalPizzaProject/Pages/Ad/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRcQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Elev/Source/Repos/Jetpreeya/C-Sharp-FinalProject/FinalPizzaProject/FinalPizzaProject/Pages/Checkout/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRcQ2hlY2tvdXQuY3NodG1s

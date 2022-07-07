@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Pages\Admin.cshtml" />
     <Content Remove="Pages\Home.cshtml" />
   </ItemGroup>
 
@@ -25,6 +26,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.6" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
   </ItemGroup>
 
   <ItemGroup>
@@ -32,11 +34,17 @@
   </ItemGroup>
 
   <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\Admin.cshtml" />
     <_ContentIncludedByDefault Remove="Pages\Home.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Pages\Ad\Admin.cshtml" />
     <None Include="Pages\Home.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\Admin.cshtml" />
   </ItemGroup>
 
 </Project>
