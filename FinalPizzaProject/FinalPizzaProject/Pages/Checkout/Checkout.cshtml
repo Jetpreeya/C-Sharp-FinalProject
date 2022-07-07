@@ -14,6 +14,10 @@
         <p>You are order for the @Model.PizzaName Pizza was ordered</p>
         <p>Total price for your order is : @Model.PizzaPrice SEK</p>
         <br />
+        <input type="radio" id="PickUp" name="fav_language" value="PickUp">
+        <label for="PickUp">Pick Up by yourself</label><br>
+        <input type="radio" id="Delivery" name="fav_language" value="Delivery">
+        <label for="Delivery">Delivery</label><br>
         <a class="btn alert-primary mt-1 mx-auto" asp-area="" asp-page="ThankYou">Confirm Order</a>
     </div>
 
